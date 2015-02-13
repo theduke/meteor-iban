@@ -2,7 +2,7 @@
 IBAN &amp; BBAN validation, formatting and conversion for the Meteor framework.
 
 
-This [Atmosphere package](http://atmospherejs.com/theduke/iban) or [Meteor](https://www.meteor.com/) wraps the IBAN validation Javascript library by ARHS, which can be found here: https://github.com/arhs/iban.js .
+This [Atmosphere package](http://atmospherejs.com/theduke/iban) for [Meteor](https://www.meteor.com/) wraps the IBAN validation Javascript library by ARHS, which can be found here: https://github.com/arhs/iban.js .
 
 The package supplies a global IBAN object that can be for validating and converting IBANs.
 
